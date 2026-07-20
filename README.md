@@ -42,6 +42,7 @@
 - [GTmetrix](https://gtmetrix.com/) - Website performance testing and monitoring.
 - [Pingdom](https://www.pingdom.com/) - Uptime and performance monitoring.
 - [PerfBudget](https://perf-budget.com/) - Set and track performance budgets.
+- [Screpy](https://screpy.com/) - Commercial website monitoring for Core Web Vitals, page speed, uptime, and technical SEO audits.
 
 ## Optimization Techniques
 
