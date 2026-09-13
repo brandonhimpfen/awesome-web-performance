@@ -43,6 +43,7 @@
 - [GTmetrix](https://gtmetrix.com/) - Website performance testing and monitoring.
 - [Pingdom](https://www.pingdom.com/) - Uptime and performance monitoring.
 - [PerfBudget](https://perf-budget.com/) - Set and track performance budgets.
+- [squirrelscan](https://squirrelscan.com/) - Open source CLI that audits performance alongside SEO, security and accessibility, with budgets enforced in CI via a GitHub Action.
 
 ## Optimization Techniques
 
